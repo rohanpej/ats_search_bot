@@ -3,5 +3,9 @@ name = "ats-search-bot"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "botbuilder>=0.0.1",
+    "botbuilder-core>=4.17.0",
+    "botbuilder-schema>=4.17.0",
+]

@@ -9,3 +9,4 @@ botbuilder-core
 botbuilder-schema
 telegram
 python-telegram-bot==20.3
+uvicorn
